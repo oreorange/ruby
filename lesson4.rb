@@ -1,0 +1,2 @@
+name = "オレンジ"
+puts name
